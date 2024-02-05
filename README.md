@@ -1,4 +1,4 @@
-# Henry's Digital Portfolio - [School Year]
+# Henry's Digital Portfolio - 2024
 
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
