@@ -1,6 +1,6 @@
 # Henry's Digital Portfolio - 2024
 
-[avatar] (https://readyplayer.me/gallery/65e644da2358d3c3bd829cb4)
+[avatar](https://readyplayer.me/gallery/65e644da2358d3c3bd829cb4)
 
 
 
